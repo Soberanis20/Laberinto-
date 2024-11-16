@@ -1,0 +1,7 @@
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\bin\Debug\Laberinto_resuelto.exe.config
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\bin\Debug\Laberinto_resuelto.exe
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\bin\Debug\Laberinto_resuelto.pdb
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\obj\Debug\Laberinto_resuelto.csproj.AssemblyReference.cache
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\obj\Debug\Laberinto_resuelto.csproj.CoreCompileInputs.cache
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\obj\Debug\Laberinto_resuelto.exe
+C:\Users\Javy\source\repos\Laberinto_resuelto\Laberinto_resuelto\obj\Debug\Laberinto_resuelto.pdb
